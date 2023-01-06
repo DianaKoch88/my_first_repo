@@ -1,0 +1,20 @@
+.nav {
+    display: inline-block;
+    padding: 0;
+    background-color: gray;
+    height: 50px;
+    width: 100px;
+}
+.left {
+    display: inline-block;
+    width: 29%;
+    float: left;
+    height: 900px;
+    background-color: lightblue;
+}
+.right {
+    display: inline-block;
+    width: 70%;
+    height: 900px;
+    background-color: lightgreen;
+}
